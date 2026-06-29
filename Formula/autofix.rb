@@ -1,5 +1,5 @@
 class Autofix < Formula
-  desc "Behavioral attestation and AI-powered fixes for Python agent tools"
+  desc "Behavioral attestation and AI-powered fixes for agent tools"
   homepage "https://github.com/trustabl/autofix"
   version "0.1.0"
   license :cannot_represent
