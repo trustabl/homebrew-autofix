@@ -7,18 +7,18 @@ class Autofix < Formula
   on_macos do
     on_arm do
       url "https://github.com/trustabl/autofix/releases/download/v0.2.0/autofix_0.2.0_darwin_arm64.tar.gz"
-      sha256 "3f5b7293f999d463b568f2562b06c40008a849c24e050132bdef7935837092ce"
+      sha256 "a761ead0ab9189739bbc20b26393bb6641d5b292620f7fda4ffab1901286dc7e"
     end
     on_intel do
       url "https://github.com/trustabl/autofix/releases/download/v0.2.0/autofix_0.2.0_darwin_amd64.tar.gz"
-      sha256 "a0d3275561b490746065c1d213bc92dd61e408f7001800e8a9b90ed4eda131ca"
+      sha256 "3208255c214671162ef8c180120abbc77e434a28101cc38ceb1cc3ca88bb94eb"
     end
   end
 
   on_linux do
     on_intel do
       url "https://github.com/trustabl/autofix/releases/download/v0.2.0/autofix_0.2.0_linux_amd64.tar.gz"
-      sha256 "43cfd6de9236b924a20ecc048c6c2e736ff364059fe9b4b907d61fc766935459"
+      sha256 "b26b51bf517e6275a48be645d170cf1a571e5c1133e93abb67c082e6a4324763"
     end
   end
 
